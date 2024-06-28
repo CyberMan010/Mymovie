@@ -26,5 +26,11 @@ O-dataBase-:
   const analytics = getAnalytics(app);
 </script>
 ---------------------------------------------------------
-
+O- Set default:
+Id
+Title 
+Personname
+Story 
+Catalog 
+Img
 
